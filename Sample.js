@@ -38,3 +38,15 @@ console.log("Total marks of Student 1 & Student 2 : "+totalAllMarks);
 // for (const iterator of object) {
     
 // }
+
+
+
+
+
+
+
+
+
+
+
+
